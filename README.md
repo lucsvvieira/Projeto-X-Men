@@ -2,6 +2,7 @@
 
 Projeto de seleção de personagens desenvolvido utilizando as linguagens HTML, CSS e JavaScript.
 
-![projetoxmen](https://github.com/lucsvvieira/Projeto-X-Men/assets/91137463/611fe565-a4be-4bf4-95e3-99deff34431b)
+![Capturar](https://github.com/lucsvvieira/Projeto-X-Men/assets/91137463/070dbb6e-b46a-4c6e-9f6a-8870816ec9e2)
+
 
 
